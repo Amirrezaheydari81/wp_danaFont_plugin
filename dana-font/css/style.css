@@ -1,0 +1,11 @@
+/* Font Dana Pro add page */
+@font-face {
+  font-family: Danapro;
+  src: url("https://waregint.sirv.com/iseokar.ir/fonts/Dana-Regular.woff2")
+    format("woff2");
+  font-weight: 100;
+  font-style: normal;
+}
+*:not(span,i) {
+  font-family: Danapro !important;
+}
